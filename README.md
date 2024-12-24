@@ -1,4 +1,4 @@
-# damm-that-s-suck
+# blinnikov
 # video advance html
 <article role="img" aria-label="cartoon of a person with blue eyes (manga-style)">
   <div class="neck"></div>
